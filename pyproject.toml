@@ -2,7 +2,7 @@
 name = "pycounts"
 version = "0.1.0"
 description = "CaCalculate word counts in a text file!"
-authors = ["Tak Sripratak"]
+authors = ["Prithvi Sureka"]
 license = "MIT"
 readme = "README.md"
 

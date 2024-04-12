@@ -7,8 +7,8 @@
 # -- Project information -----------------------------------------------------
 
 project = u"pycounts"
-copyright = u"2024, Tak Sripratak"
-author = u"Tak Sripratak"
+copyright = u"2024, Prithvi Sureka"
+author = u"Prithvi Sureka"
 
 # -- General configuration ---------------------------------------------------
 
@@ -34,3 +34,4 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 # a list of builtin themes.
 #
 html_theme = "sphinx_rtd_theme"
+
